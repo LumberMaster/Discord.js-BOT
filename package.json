@@ -1,0 +1,14 @@
+{
+  "name": "discord_bot_js",
+  "version": "1.0.0",
+  "description": "Bot on Discord.js",
+  "main": "core.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "LumberMaster",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
